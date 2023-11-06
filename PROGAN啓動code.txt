@@ -1,0 +1,1 @@
+python3 run.py --app gen --model_path models/celeba_align_png_cropped_seed_v0.pkl --out_image_dir gen/celeba_align_png_cropped/ --num_pngs 100 --gen_seed 0
